@@ -9,4 +9,4 @@ Note: This plugin is for demostration purposes only and is not be supported by E
 
 **Additional Buddypress Integrations:**
 
-- https://gist.github.com/Pebblo/8e657cffab1ddd1bd16451fe567c02eb
+- Create an account before registering: https://gist.github.com/Pebblo/8e657cffab1ddd1bd16451fe567c02eb
