@@ -8,4 +8,5 @@ Download and install like any other WordPress plugin.
 Note: This plugin is for demostration purposes only and is not be supported by Event Espresso staff at this time.
 
 Additional Buddypress integrations:
-https://gist.github.com/Pebblo/8e657cffab1ddd1bd16451fe567c02eb
+
+- https://gist.github.com/Pebblo/8e657cffab1ddd1bd16451fe567c02eb
