@@ -1,7 +1,7 @@
 <?php
 /*
   Plugin Name: Event Espresso - BuddyPress Activity (EE 4.3+)
-  Plugin URI: http://www.eventespresso.com/buddypress
+  Plugin URI: https://eventespresso.com/
   Description: The Event Espresso BuddyPress Integration adds event registrations to the BuddyPress activity timeline. BuddyPress Activity Streams must be active.
   Version: 0.0.1.dev.001
   Author: Event Espresso - Seth Shoultes
